@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="42" viewBox="0 0 128 42">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="128" height="42"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <rect width="128" height="42" fill="#fff"/>
+    <text id="Hello_Game_Shop" data-name="Hello
+Game Shop" transform="translate(1 17)" fill="#08050c" font-size="24" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">Hello</tspan><tspan x="0" y="20">Game Shop</tspan></text>
+    <line id="線_1" data-name="線 1" x2="40" transform="translate(59.5 10.5)" fill="none" stroke="#fda901" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
